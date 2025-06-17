@@ -42,8 +42,7 @@ This project involved designing and building a custom arcade fightstick from the
 - **Encoder:** The Daemonbite KTRL Arcade is a low-latency, open-source USB controller encoder compatible with PC and many consoles. It provides excellent responsiveness.
 - **USB Integration:** The Neutrik NAUSB3 panel mount provides a professional-grade USB passthrough port, mounted on the case for clean external connection.
 - **Construction Tips:** Spacer bolts allow for layered construction of panels, and nylon washers help reduce wear on parts.
+- **Case material:** I chose polycarbonate over plexiglass (acrylic) because it's significantly more impact-resistant and less prone to cracking. Polycarbonate is also easier to drill without chipping, making it a better choice for precise button and joystick mounting.
 
 ---
-
-Feel free to clone, fork, and contribute ideas for case designs, wiring tips, or controller firmware tweaks!
 
