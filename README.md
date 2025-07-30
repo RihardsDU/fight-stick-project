@@ -30,6 +30,7 @@ This project involved designing and building a custom arcade fightstick from the
 
 ## Design & Build Notes
 
+- Low latency encoder source code: https://github.com/MickGyver/DaemonBite-Arcade-Encoder
 - The case was designed with spacing in mind to accommodate the joystick lever and all wiring.
 - Button layout was based on arcade standards using the template from ArcadeControls.
 - Screws and spacers were used to provide a sturdy base and good mounting for the top panel.
